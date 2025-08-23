@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome!
 
-I'm an Assistant Professor of Instructional Communication Research and Information Communication Technology in the [School of Information Science at the University of Kentucky](https://ci.uky.edu/sis/). I'm originally from Gastonia, North Carolina (20 minutes west of Charlotte), where I grew up eating Livermush and drinking Sundrop. Outside of scholarship, I watch anime, read science fiction, run long distances, play DnD, cook for my family, and obsess over Liverpool Football Club.
+I'm an Associate Professor of Instructional Communication Research and Information Communication Technology in the [School of Information Science at the University of Kentucky](https://ci.uky.edu/sis/). I'm originally from Gastonia, North Carolina (20 minutes west of Charlotte), where I grew up eating Livermush and drinking Sundrop. Outside of scholarship, I read A LOT (currently going back Dungeon Crawler Carl), cook for my family, and obsess over Liverpool Football Club.
 
 ## Research
 

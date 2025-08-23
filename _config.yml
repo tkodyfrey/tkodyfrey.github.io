@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Dr. T. Kody Frey"
 title_separator          : "-"
 name                     : &name "Dr. T. Kody Frey"
-description              : &description "Assistant Professor of Instructional Communication & ICT"
+description              : &description "Associate Professor of Instructional Communication & ICT"
 url                      : https://tkodyfrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tkodyfrey/tkodyfrey.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Dr. T. Kody Frey"
   avatar           : "2021Headshot_Small.JPG"
-  bio              : "Assistant Professor of Instructional Communication & ICT"
+  bio              : "Associate Professor of Instructional Communication & ICT"
   location         : 
   employer         : "University of Kentucky"
   googlescholar    : "https://scholar.google.com/citations?user=pbmOyTIAAAAJ&hl=en"
